@@ -5,7 +5,7 @@
 #include "beatsaber-hook/shared/utils/il2cpp-functions.hpp"
 #include "UnityEngine/Vector3.hpp"
 
-DEFINE_TYPE(GoodbyeMoonMonke::GoodbyeMoonMonkeWatchView);
+DEFINE_TYPE(GoodbyeMoonMonke, GoodbyeMoonMonkeWatchView);
 
 using namespace GorillaUI;
 using namespace UnityEngine;
